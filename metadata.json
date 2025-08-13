@@ -1,0 +1,6 @@
+{
+  "name": "VDP",
+  "description": "An AI-powered tool to analyze short-form videos and extract their 'Viral DNA Profile' into a structured JSON format, detailing narrative, audiovisual techniques, and audience sentiment.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
